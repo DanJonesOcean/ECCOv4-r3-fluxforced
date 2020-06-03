@@ -1,0 +1,14 @@
+build_192/
+build_360/
+build_ad_192/
+build_ad_360/
+input_ecco/
+input_forcing_bulkform
+input_forcing_flux/
+input_init
+input_itXX
+input_masks
+run_ad_mon01/
+run_ad_test/
+run_diags/
+run_template/
